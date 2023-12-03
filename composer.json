@@ -32,9 +32,9 @@
 	"require": {
 		"php"	: ">=8.0.0",
 
-		"nette/di"			: "~2.4",
-		"nette/http"		: "~2.4",
-		"nette/security"	: "~2.4",
+		"nette/di"			: "~3.1",
+		"nette/http"		: "~3.1",
+		"nette/security"	: "~3.1",
 
 		"ipub/websockets": "^1.0",
 
@@ -42,10 +42,10 @@
 	},
 
 	"require-dev": {
-		"nette/bootstrap"		: "~2.4",
-		"nette/mail"			: "~2.4",
+		"nette/bootstrap"		: "~3.1",
+		"nette/mail"			: "~3.1",
 		"nette/robot-loader"	: "~2.4",
-		"nette/safe-stream"		: "~2.3",
+		"nette/safe-stream"		: "~3.1",
 		"nette/tester"			: "@dev",
 
 		"pds/skeleton"	: "^1.0",
