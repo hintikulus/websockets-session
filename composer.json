@@ -1,5 +1,5 @@
 {
-	"name"			: "ipub/websockets-session",
+	"name"			: "hintik/websockets-session",
 	"type"			: "library",
 	"description"	: "Extension for implementing sessions into ipub/websockets server",
 	"keywords"		: ["nette", "websockets", "session", "ipub", "ipublikuj", "framework", "tools"],
